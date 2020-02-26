@@ -1,0 +1,62 @@
+CardConcept,P01,P02,P04,P05,P06,P07,P08,P11,P12,P13,P16,P17,P18,P19,P20
+Allied healthcare providers,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Annual population estimates ,Useful,Useful,Useful,Maybe,Maybe,Maybe,Useful,Not,Not,Not,Maybe,Not,Not,Not,Maybe
+Blocked roads ,Useful,Useful,Useful,Useful,Maybe,Useful,Useful,Useful,Useful,Useful,Useful,Maybe,Useful,Useful,Useful
+Building and housing quality,NaN,NaN,NaN,Addition,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Census Block boundaries ,Useful,Not,Maybe,Maybe,Not,Useful,Useful,Not,Useful,Maybe,Not,Not,Not,Useful,Useful
+Census Tract demographics ,Useful,Useful,Useful,Maybe,Useful,Useful,Useful,Not,Useful,Useful,Not,Not,Useful,Not,Useful
+Chemical interpretation aid ,Useful,Maybe,Useful,Maybe,Not,Not,Not,Not,Not,Not,Not,Maybe,Useful,Useful,Useful
+Community boundaries,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Community cohesiveness,NaN,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+County demographics ,Useful,Not,Useful,Useful,Useful,Useful,Useful,Not,Maybe,Useful,Useful,Useful,Useful,Not,Useful
+County/Municipios boundaries ,Useful,Useful,Not,Useful,Not,Useful,Useful,Not,Not,Useful,Useful,Useful,Not,Useful,Useful
+Dialysis clinics,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Disposal plan for dead bodies,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Addition,NaN
+"Doctor's office, clinics, and ambulatory surgery centers",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN
+Econometric surveys and databases,NaN,NaN,NaN,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Electronic health record information,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Addition,NaN,NaN,NaN
+Evacuation plans,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN
+Flooded areas ,Not,Useful,Useful,Useful,Maybe,Maybe,Useful,Useful,Useful,Useful,Useful,Useful,Useful,Useful,Useful
+Government response infrastructure,NaN,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Health outcomes by County ,Useful,Useful,Useful,Useful,Useful,Useful,Useful,Not,Useful,Useful,Useful,Maybe,Maybe,Not,Useful
+Health outcomes by State ,Not,Not,Maybe,Maybe,Useful,Not,Not,Not,Maybe,Not,Maybe,Maybe,Not,Not,Useful
+Health system standard operating protocol,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Highly prevalent investigations,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Addition
+Hospital locations ,Useful,Useful,Useful,Maybe,Useful,Useful,Useful,Useful,Useful,Useful,Useful,Useful,Useful,Useful,Useful
+Human resource ,Useful,Maybe,Useful,Maybe,Useful,Useful,Useful,Useful,Maybe,Useful,Useful,Not,Useful,Useful,Useful
+Individual and family level of preparedness,NaN,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Insurance coverage,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN
+Landscape elevation,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN
+Location of patients that depend on electronic devices,NaN,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Microbial interpretation aid ,Useful,Maybe,Maybe,Useful,Not,Not,Not,Not,Not,Not,Useful,Not,Useful,Useful,Useful
+Microbial presence testing ,NaN,Maybe,Useful,Useful,Useful,Useful,Useful,Useful,Useful,Not,Useful,Maybe,Useful,Useful,Useful
+Neighborhood information,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,NaN
+Pharmacy locations ,Useful,Useful,Useful,Maybe,Maybe,Maybe,Useful,Useful,Useful,Useful,Useful,Not,Useful,Useful,Useful
+Poison control,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Addition
+Power source locations,NaN,NaN,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Public Health Assessments ,Useful,Useful,Useful,Maybe,Useful,Useful,Useful,Useful,Maybe,Useful,Useful,Useful,Useful,Useful,Useful
+Public utilities,NaN,NaN,NaN,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Qualitative Interviews ,Useful,Maybe,Useful,Maybe,Useful,Not,Useful,Useful,Useful,Useful,Useful,Useful,Maybe,Useful,Useful
+Responder standard operating protocol,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Roads and Highways ,Useful,Useful,Not,Useful,Maybe,Useful,Useful,Useful,Useful,Useful,Useful,Useful,Useful,Useful,Useful
+Shelters and feeding stations,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Addition,NaN,Addition,Addition,NaN
+State/Territory demographics ,Not,Not,Maybe,Not,Useful,Useful,Useful,Not,Maybe,Not,Maybe,Maybe,Not,Not,Useful
+Storm damage ,Useful,Useful,Useful,Maybe,Maybe,Maybe,Useful,Useful,Useful,Useful,Maybe,Useful,Useful,Useful,Useful
+Story route ,Useful,Useful,Maybe,Not,Not,Useful,Useful,Useful,Useful,Useful,Maybe,Useful,Useful,Useful,Useful
+Streamflow hazard ,NaN,NaN,NaN,Maybe,Not,NaN,Maybe,Useful,Useful,Not,Useful,Useful,Not,Not,Useful
+Supply chain of emergency supplies,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Addition,NaN
+Territory geographic boundaries ,Not,Not,Not,Maybe,Not,Not,Useful,Not,Not,Not,Useful,Maybe,Not,Useful,Useful
+Testing for Unregulated chemical contaminants ,NaN,Maybe,Maybe,Maybe,Not,Maybe,Useful,Useful,Useful,Not,Not,Maybe,Useful,Useful,Useful
+Testing for regulated water quality endpoints ,NaN,Useful,Useful,Useful,Not,Not,Useful,Useful,Useful,Not,Not,Maybe,Useful,Useful,Useful
+Time constraint (Annual) ,Maybe,Not,Maybe,Not,Useful,Maybe,Useful,Not,Not,Maybe,Useful,Not,Useful,Useful,Maybe
+Time constraint (Real-Time) ,Maybe,Not,Maybe,Not,Useful,Maybe,Useful,Not,Useful,Useful,Useful,Useful,Not,Not,Useful
+Time constraint (monthly updates) ,Maybe,Not,Maybe,Not,Useful,Maybe,Useful,Not,Not,Useful,Useful,Not,Useful,Useful,Maybe
+Time constraint (up to 2 weeks) ,Maybe,Not,Useful,Not,Useful,Maybe,Useful,Not,Useful,Maybe,Useful,Useful,Useful,Useful,Useful
+Time constraint (up to 4 days) ,Useful,Not,Maybe,Not,Useful,Maybe,Useful,Not,Useful,Not,Useful,Useful,Not,Not,Useful
+Training Modules and Workflows ,Useful,Useful,Maybe,Maybe,Useful,Useful,Not,Not,Maybe,Maybe,Useful,Not,Maybe,Maybe,Useful
+Tribal governments,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Addition
+Vulnerable populations ,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Addition
+Wastewater treatment and Sanitation,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Addition,Addition,NaN
+Water Infrastructure,NaN,NaN,NaN,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+Watershed boundaries,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,Addition,NaN,NaN,NaN,NaN,NaN,NaN
+Weather information,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Addition,NaN,NaN,NaN
